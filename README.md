@@ -1,4 +1,3 @@
 # Home-Monitoring-GUI(Using Swing)
 Desktop GUI For a Home Security System that's allowing you to check your Home state
-# Home APP
-![Uploading Home_Monitoring.png…]()
+# Home Screen APP
